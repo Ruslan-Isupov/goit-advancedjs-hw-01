@@ -30,3 +30,11 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
+
+.general-list {
+  list-style: none;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
