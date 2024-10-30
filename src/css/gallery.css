@@ -32,7 +32,6 @@ button {
     max-width: 1140px;
     display: flex;
     flex-wrap: wrap;
-    /* flex-basis: ; */
     gap: 24px;
     justify-content: center;
 
